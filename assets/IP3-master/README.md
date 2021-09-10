@@ -13,13 +13,13 @@ This is a landing page website.
 
 #### CHECK OUT THE WEBSITE:
 
-[]
+[https://asandelarvine.github.io/delaniStudio/]
 
 #### SETUP/INSTALLATION REQUIREMENTS:
 
 # Open Terminal
 
-# git clone 
+# git clone https://asandelarvine.github.io/delaniStudio/
 
 # cd birthday_calc
 
