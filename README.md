@@ -11,11 +11,11 @@ Larvine Asande
 This is a landing page website.
                         
 
-#### CHECK OUT THE WEBSITE:
+### CHECK OUT THE WEBSITE:
 
 [https://asandelarvine.github.io/delaniStudio/]
 
-#### SETUP/INSTALLATION REQUIREMENTS:
+### SETUP/INSTALLATION REQUIREMENTS:
 
 # Open Terminal
 
@@ -37,7 +37,7 @@ I had a challenge ...
 
 
 
-#### TECHNOLOGIES USED:
+### TECHNOLOGIES USED:
 
 HTML
 
@@ -54,7 +54,7 @@ JQuery
 
 If you have any issues, questions, ideas or concerns, feel free to contact. {Email: asandelarvine@gmail.com}
 
-#### LICENCE:
+### LICENCE:
 
 This project is under the MIT licence:
 
