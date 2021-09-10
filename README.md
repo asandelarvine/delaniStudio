@@ -1,8 +1,8 @@
-#### DELANI STUDIO 
+## DELANI STUDIO 
 
 A landing page of a website. {Date Sept 10 2021}
 
-## {LIST OF CONTRIBUTORS}
+### {LIST OF CONTRIBUTORS}
 
 Larvine Asande
 
@@ -17,18 +17,18 @@ This is a landing page website.
 
 ### SETUP/INSTALLATION REQUIREMENTS:
 
-# Open Terminal
+#### Open Terminal
 
-# git clone https://asandelarvine.github.io/delaniStudio/
+#### git clone https://asandelarvine.github.io/delaniStudio/
 
-# cd birthday_calc
+#### cd birthday_calc
 
-# code .(visualstudio) 
+#### code .(visualstudio) 
 
 
 based on the text editor you have
 
-## KNOWN BUGS:
+### KNOWN BUGS:
 
 I had a challenge ...
 
