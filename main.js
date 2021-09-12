@@ -7,7 +7,7 @@ $(document).ready(function (){
         $(".toggle1").toggle();
 
     });
-    $(".toggle2,.toggle2a").click(function(){
+    $(".toggle2,.toggle2b").click(function(){
         $("#text2").toggle();
         $(".toggle2").toggle();
 
