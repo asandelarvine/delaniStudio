@@ -21,7 +21,7 @@ This is a landing page website.
 
 # git clone https://asandelarvine.github.io/delaniStudio/
 
-# cd birthday_calc
+# cd delaniStudio
 
 # code .(visualstudio) 
 
@@ -30,10 +30,7 @@ based on the text editor you have
 
 ## KNOWN BUGS:
 
-I had a challenge ...
-
-
-
+I had a challenge getting the pop message on submission. 
 
 
 
