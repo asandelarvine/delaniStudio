@@ -33,3 +33,104 @@ p{
     text-shadow: -5px 4px 0px #808d93, -4px 4px 0px #cdd2d5, -3px 2px 0px #202c2d, -2px 1px #cdd2d5 ;
     
 }
+/*aboutUs*/
+.aboutUs  {
+    text-align: center;
+    font-family: 'Lato';
+    padding-top: 19px;
+    height: 40px;
+    
+}
+/*services*/
+.service1{
+    background: url(./assets/IP3-master/assets/backgrounds/s_image.jpg);
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    height: 50vh;  
+}
+
+.service2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/*whatWeDo*/
+.whatWeDo:hover{
+    height: 50vh;
+    color: #000000;
+    padding-top: 5vh;
+    background: rgba(248, 247, 246, 0.932);
+
+}
+.row:hover{
+    padding: 1rem;
+    font-family: 'crimson Pro', serif;
+    font-size: 20px;
+    
+
+}
+/*portfolio*/
+.portfo1{
+    padding-top: 9vh;
+    padding-bottom: 5vh;
+}
+.project{
+    padding: 8px;
+    position: absolute;
+    background-color: #ffffff;
+    display: none;
+    text-align: center;
+    top: 55%;
+    left: 45%;
+    transform: translate(-50%, -80%);
+
+}
+.img1 :hover{
+    opacity: 0.3;
+}
+.project:hover{
+    opacity: 1;
+ 
+}
+/*contact form*/
+.head{
+    margin-top: 4vh;
+}
+
+
+.form{
+    position: relative;
+    left: 0;
+    top: 0;
+    padding-top: 2vh;
+    text-transform: uppercase;
+}
+.submit{
+    margin-bottom: 17vh;
+}
+/*contactUs*/
+.contact{
+    padding-top: 10vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+}
+.contact > h3{
+    color: #ffffff;
+}
+.contactMe{
+    height: 90vh;
+    width: 100%;
+}
+/*media queries*/
+@media only screen and (max-width: 900px) {
+
+  }
+
+
+
