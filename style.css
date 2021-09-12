@@ -58,34 +58,45 @@ p{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-/*whatWeDo*/
-.whatWeDo:hover{
-    height: 50vh;
-    color: #000000;
+
+
+
+/*yoo*/
+
+/* What we do */
+.whatWeDo:hover {
     padding-top: 5vh;
-    background: rgba(248, 247, 246, 0.932);
-
-}
-.row:hover{
+    height: 50vh;
+    color:black;
+    background:rgba(248, 247, 246, 0.932);
+  }
+  /* // what we do styling */
+  .myrow:hover {
     padding: 1rem;
-    font-family: 'crimson Pro', serif;
+    font-family: 'Crimson Pro', serif;
     font-size: 20px;
-    
+    color: rgb(26, 163, 140);
+  }
 
-}
+
+  .imgtoggle1, .imgtoggle2, .imgtoggle3{
+      display: none;
+  }
+
 /*portfolio*/
 .portfo1{
     padding-top: 9vh;
     padding-bottom: 5vh;
 }
+
 .project{
-    padding: 8px;
+    padding: 5px;
     position: absolute;
     background-color: #ffffff;
     display: none;
     text-align: center;
-    top: 55%;
-    left: 45%;
+    top: 58%;
+    left: 48%;
     transform: translate(-50%, -80%);
 
 }
