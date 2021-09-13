@@ -8,12 +8,19 @@ Larvine Asande
 
 ### DESCRIPTION:
 
-This is a landing page website.
+This is a landing page of Delani Studio website.
                         
 
 ### CHECK OUT THE WEBSITE:
 
 [https://asandelarvine.github.io/delaniStudio/]
+
+
+
+### SCREENSHOT:
+[https://drive.google.com/file/d/12qRJ-OlnURprmWD9VDJzQTaptmxrdyZG/view]
+
+
 
 ### SETUP/INSTALLATION REQUIREMENTS:
 
@@ -21,21 +28,12 @@ This is a landing page website.
 
 #### git clone https://asandelarvine.github.io/delaniStudio/
 
-#### cd birthday_calc
+#### cd delaniStudio
 
 #### code .(visualstudio) 
 
 
 based on the text editor you have
-
-### KNOWN BUGS:
-
-I had a challenge ...
-
-
-
-
-
 
 ### TECHNOLOGIES USED:
 
