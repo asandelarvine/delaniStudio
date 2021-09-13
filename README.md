@@ -21,7 +21,6 @@ This is a landing page of Delani Studio website.
 [https://drive.google.com/file/d/12qRJ-OlnURprmWD9VDJzQTaptmxrdyZG/view]
 
 
-
 ### SETUP/INSTALLATION REQUIREMENTS:
 
 #### Open Terminal
