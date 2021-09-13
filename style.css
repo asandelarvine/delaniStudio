@@ -108,9 +108,9 @@ p {
 	left: 0;
 	top: 0;
 	padding-top: 2vh;
-	text-transform: uppercase; 
-        
+	text-transform: uppercase;      
 }
+
 
 .submit {
 	margin-bottom: 17vh;
@@ -132,6 +132,3 @@ p {
 	height: 90vh;
 	width: 100%;
 }
-/*media queries*/
-
-@media only screen and (max-width: 900px) {}
