@@ -18,8 +18,7 @@ This is a landing page of Delani Studio website.
 
 
 ### SCREENSHOT:
-https://drive.google.com/file/d/12qRJ-OlnURprmWD9VDJzQTaptmxrdyZG/view
-
+[https://drive.google.com/file/d/12qRJ-OlnURprmWD9VDJzQTaptmxrdyZG/view]
 
 
 ### SETUP/INSTALLATION REQUIREMENTS:
