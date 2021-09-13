@@ -35,11 +35,6 @@ https://drive.google.com/file/d/12qRJ-OlnURprmWD9VDJzQTaptmxrdyZG/view
 
 based on the text editor you have
 
-### KNOWN BUGS:
-
-The screenshot is not working .
-
-
 ### TECHNOLOGIES USED:
 
 HTML
